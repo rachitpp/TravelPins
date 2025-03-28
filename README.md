@@ -27,7 +27,7 @@ A modern **Travel Tracking Web App** where users can:
 
 ---
 ## Live Demo  
-[View the Live Project](https://travelpins-explore.netlify.app)  
+[View the Live Project](https://travel-pins.vercel.app/)  
 
 ---
 
