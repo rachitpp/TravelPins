@@ -23,7 +23,7 @@ export default function Homepage() {
         >
           You travel the world.
           <br />
-          WorldWise keeps track of your adventures.
+          TravelPins keeps track of your adventures.
         </h1>
         <h2 
           className={`w-[90%] text-2xl text-[var(--color-light--1)] mb-10 transition-all duration-1000 ease-out delay-300 transform ${

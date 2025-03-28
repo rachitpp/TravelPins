@@ -16,7 +16,7 @@ function Sidebar() {
 
       <footer className="w-full mb-4">
         <p className="text-xs text-[var(--color-light--1)] text-center">
-          &copy; Copyright {new Date().getFullYear()} by WorldWise Inc.
+          &copy; Copyright {new Date().getFullYear()} by TravelPins Inc.
         </p>
       </footer>
     </div>

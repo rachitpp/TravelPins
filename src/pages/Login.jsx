@@ -61,7 +61,7 @@ export default function Login() {
           }`}
             style={{ transitionDelay: '200ms' }}
           >
-            Login to WorldWise
+            Login to TravelPins
           </h2>
           
           <div className={`flex flex-col gap-2 group transition-all duration-500 ease-out transform ${
